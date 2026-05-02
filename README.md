@@ -2,7 +2,6 @@
 
 A fully modernized, static multi-page hospital website built with **pure HTML, CSS, and vanilla JavaScript**. No frameworks, no build step — just open `index.html`.
 
-**Live:** https://MinaMagdy-123.github.io/Hospital-Profile/
 
 ## Features
 
